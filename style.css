@@ -1,0 +1,103 @@
+body{
+    background-color: #FAFAD2;
+}
+h1{
+    text-align: center;
+}
+p{
+    padding-left: 10%;
+}
+.block{
+    margin: 0 auto;
+}
+.medium{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.first-medium-block{
+    margin: 0 auto;
+    width: 420px;
+    height: 70px;
+}
+.second-medium-block{
+    margin: 0 auto;
+    width: 420px;
+    height: 70px;
+}
+.bottom{
+    margin: 0 auto;
+    width: 600px;
+    height: 200px;
+    background-color: yellowgreen;
+}
+.red{
+    height: 70px;
+    width: 420px;
+    background-color: red;
+}
+.green{
+    height: 70px;
+    width: 420px;
+    background-color: green;
+}
+.blue{
+    height: 70px;
+    width: 420px;
+    background-color: blue;
+}
+.medium-red{
+    height: 70px;
+    width: 140px;
+    background-color: red;
+    float: left;
+}
+.medium-green{
+    height: 70px;
+    width: 140px;
+    background-color: green;
+    float: left;
+}
+.medium-blue{
+    height: 70px;
+    width: 140px;
+    background-color: blue;
+    float: left;
+}
+.medium-yellow{
+    height: 70px;
+    width: 420px;
+    background-color: yellow;
+}
+.medium-gray{
+    height: 70px;
+    width: 210px;
+    background-color: gray;
+    float: left;
+}
+.medium-black{
+    height: 70px;
+    width: 210px;
+    background-color: black;
+    float: left;
+}
+.bottom-red{
+    height: 145px;
+    width: 140px;
+    background-color: red;
+    float: left;
+    margin: 5%;
+}
+.bottom-green{
+    height: 145px;
+    width: 140px;
+    background-color: green;
+    float: left;
+    margin: 5%;
+}
+.bottom-blue{
+    height: 145px;
+    width: 140px;
+    background-color: blue;
+    float: left;
+    margin: 5%;
+}
